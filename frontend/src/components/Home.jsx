@@ -20,7 +20,7 @@ const Home = () => {
             Chanchal <span className="text-gray-500">Soni</span>
           </h1>
           <h2 className="text-red-600 font-bold text-2xl md:text-3xl mb-6 uppercase tracking-wide">
-            Mandal General Secretary (BJYM)
+            Bharitya Janta Yuva Morcha (Guna)
           </h2>
           
           <p className="text-gray-700 text-lg md:text-xl mb-8 max-w-lg leading-relaxed font-medium">
@@ -29,9 +29,9 @@ const Home = () => {
 
           {/* 📱 सोशल मीडिया आइकॉन्स */}
           <div className="flex justify-center md:justify-start gap-4 mb-10">
-            <a href="#" className="bg-blue-800 text-white p-3 rounded-full text-xl shadow-lg hover:scale-110 transition-all flex items-center justify-center w-12 h-12"><FaFacebookF /></a>
-            <a href="#" className="bg-gradient-to-tr from-yellow-500 via-red-500 to-purple-500 text-white p-3 rounded-full text-xl shadow-lg hover:scale-110 transition-all flex items-center justify-center w-12 h-12"><FaInstagram /></a>
-            <a href="#" className="bg-green-500 text-white p-3 rounded-full text-xl shadow-lg hover:scale-110 transition-all flex items-center justify-center w-12 h-12"><FaWhatsapp /></a>
+            <a href="https://www.facebook.com/share/186mi4SBPX/" className="bg-blue-800 text-white p-3 rounded-full text-xl shadow-lg hover:scale-110 transition-all flex items-center justify-center w-12 h-12"><FaFacebookF /></a>
+            <a href="https://www.instagram.com/ichanchalssoni?igsh=MWY0bDd2dXM5dHFtYQ==" className="bg-gradient-to-tr from-yellow-500 via-red-500 to-purple-500 text-white p-3 rounded-full text-xl shadow-lg hover:scale-110 transition-all flex items-center justify-center w-12 h-12"><FaInstagram /></a>
+            <a href="c:\Users\Dell\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\sessions\23E7F7A2504D6423B97EE4BAED9433AD2383E9A4\transfers\2026-07\WhatsApp Image 2026-02-17 at 6.45.49 PM.jpeg" className="bg-green-500 text-white p-3 rounded-full text-xl shadow-lg hover:scale-110 transition-all flex items-center justify-center w-12 h-12"><FaWhatsapp /></a>
           </div>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center md:justify-start">
