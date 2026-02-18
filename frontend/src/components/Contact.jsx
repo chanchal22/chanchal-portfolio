@@ -41,8 +41,8 @@ const Contact = () => {
 
           {/* Social Icons */}
           <div className="mt-10 flex space-x-6">
-            <a href="#" className="text-gray-300 hover:text-bhagwa text-3xl"><FaFacebook /></a>
-            <a href="#" className="text-gray-300 hover:text-bhagwa text-3xl"><FaInstagram /></a>
+            <a href="https://www.facebook.com/ichanchalssoni" className="text-gray-300 hover:text-bhagwa text-3xl"><FaFacebook /></a>
+            <a href="https://www.instagram.com/ichanchalssoni" className="text-gray-300 hover:text-bhagwa text-3xl"><FaInstagram /></a>
             <a href="#" className="text-gray-300 hover:text-bhagwa text-3xl"><FaTwitter /></a>
             <a href="#" className="text-gray-300 hover:text-bhagwa text-3xl"><FaWhatsapp /></a>
           </div>

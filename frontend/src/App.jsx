@@ -32,7 +32,7 @@ function App() {
 
       {/* 🔐 सुरक्षित एडमिन रास्ता (Line 30 को इससे बदलें) */}
       <Route 
-        path="/admin-chanchalssoni-portal" 
+        path="/admin" 
         element={
           isAuthenticated ? (
             <Admin />
